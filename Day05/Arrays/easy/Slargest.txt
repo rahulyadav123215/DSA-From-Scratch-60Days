@@ -1,0 +1,22 @@
+✅ Optimized Approach (One Pass):
+🔸 Logic:
+Keep track of:
+
+first → largest
+
+second → second largest
+
+🔹 Steps:
+Initialize first = second = INT_MIN
+
+Traverse the array:
+
+If arr[i] > first, then:
+
+second = first
+
+first = arr[i]
+
+Else if arr[i] > second && arr[i] != first, then:
+
+second = arr[i]
