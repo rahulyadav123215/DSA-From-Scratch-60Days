@@ -1,0 +1,11 @@
+✅ Key takeaway:
+
+Lower Bound → first ≥ target (index)
+
+Upper Bound → first > target (index)
+
+Search Insert Position → lower bound logic
+
+Floor → largest ≤ target (value)
+
+Ceil → smallest ≥ target (value)
