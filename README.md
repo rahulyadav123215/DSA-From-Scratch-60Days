@@ -1,5 +1,3 @@
-# DSA-From-Scratch-60Days
-A structured 60-day plan to build strong DSA foundations. Practicing daily with consistency and tracking progress.
 # 🚀 60-Day DSA Challenge – Rahul Kumar Yadav
 
 Welcome to my 60-Day DSA (Data Structures & Algorithms) Challenge!  
